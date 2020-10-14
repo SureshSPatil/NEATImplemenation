@@ -7,3 +7,10 @@ To Run Flappy Bird Demo:
 cd ./flappy_bird/ 
 
 python flappyBirdAI.py 
+
+
+To Run Dinosaur Game Demo:
+
+cd ./dino_game/
+
+python dinosaurAI.py
