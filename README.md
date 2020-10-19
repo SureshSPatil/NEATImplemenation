@@ -1,5 +1,5 @@
 # NEATImplemenation
-My personal implementation of Neat, May not be entirely correct...
+My personal implementation of NEAT.
 
 
 **To Run Flappy Bird Demo with NEAT AI:** 
